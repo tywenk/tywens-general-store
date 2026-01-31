@@ -1,0 +1,32 @@
+{
+  "name": "architecture-scout",
+  "description": "Map, analyze, and plan migrations for legacy codebases",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ty Wen"
+  },
+  "keywords": ["legacy", "architecture", "migration", "analysis", "refactoring"],
+  "agents": [
+    "./agents/orchestrator.md",
+    "./agents/structural/dependency-mapper.md",
+    "./agents/structural/boundary-analyzer.md",
+    "./agents/structural/entry-point-tracer.md",
+    "./agents/structural/data-flow-tracker.md",
+    "./agents/structural/config-archaeologist.md",
+    "./agents/structural/api-surface-mapper.md",
+    "./agents/structural/state-side-effect-mapper.md",
+    "./agents/patterns/pattern-detector.md",
+    "./agents/patterns/inconsistency-finder.md",
+    "./agents/patterns/convention-inferrer.md",
+    "./agents/patterns/error-handling-auditor.md",
+    "./agents/historical/codebase-historian.md",
+    "./agents/health/tech-debt-assessor.md",
+    "./agents/health/testing-surveyor.md",
+    "./agents/health/security-flagger.md",
+    "./agents/health/structural-perf-detector.md",
+    "./agents/synthesis/migration-advisor.md",
+    "./agents/synthesis/quick-wins-identifier.md",
+    "./agents/synthesis/risk-assessor.md",
+    "./agents/synthesis/coalescence-agent.md"
+  ]
+}
