@@ -1,0 +1,16 @@
+{
+  "name": "architecture-scout-marketplace",
+  "owner": {
+    "name": "Ty Wen"
+  },
+  "metadata": {
+    "description": "Tools for analyzing and reviving legacy codebases"
+  },
+  "plugins": [
+    {
+      "name": "architecture-scout",
+      "source": "./plugins/architecture-scout",
+      "description": "Map, analyze, and plan migrations for legacy codebases"
+    }
+  ]
+}
