@@ -18,8 +18,10 @@ Check for these files at the project root:
 
 Based on which files exist, identify the primary tech stack(s). Load the relevant stack profile(s) from the `stack-profiles/` directory alongside this skill for ecosystem-specific guidance on what to look for.
 
-Create the output directory structure:
-!`mkdir -p docs/architecture-scout/structural docs/architecture-scout/patterns docs/architecture-scout/historical docs/architecture-scout/health docs/architecture-scout/synthesis docs/architecture-scout/deep-dives`
+Create the output directory structure using the Bash tool:
+```
+mkdir -p docs/architecture-scout/structural docs/architecture-scout/patterns docs/architecture-scout/historical docs/architecture-scout/health docs/architecture-scout/synthesis docs/architecture-scout/deep-dives
+```
 
 If the user provided arguments via $ARGUMENTS, note their focus area and prioritize it throughout the analysis.
 
