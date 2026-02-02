@@ -1,7 +1,7 @@
 ---
 name: migration-advisor
 description: Reads all architecture scout findings and suggests non-breaking migration paths prioritized by impact and risk. Use after structural, pattern, and health analysis is complete.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: inherit
 ---
 

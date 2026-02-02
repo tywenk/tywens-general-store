@@ -1,7 +1,7 @@
 ---
 name: pattern-detector
 description: Identifies design patterns (SOLID, DRY, separation of concerns) and anti-patterns in legacy codebases. Categorizes patterns as intentional vs accidental. Use when analyzing code quality and design patterns.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: sonnet
 ---
 

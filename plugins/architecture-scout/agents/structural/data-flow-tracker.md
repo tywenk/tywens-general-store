@@ -1,7 +1,7 @@
 ---
 name: data-flow-tracker
 description: Tracks how data transforms as it moves through a legacy codebase. Identifies validation points, transformation layers, and data leaks. Use when understanding data pipelines and transformation patterns.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: haiku
 ---
 

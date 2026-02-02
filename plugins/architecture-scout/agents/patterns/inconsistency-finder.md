@@ -1,7 +1,7 @@
 ---
 name: inconsistency-finder
 description: Finds style drift, naming divergence, and divergent approaches to the same problem across a legacy codebase. Use when assessing codebase consistency.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: sonnet
 ---
 

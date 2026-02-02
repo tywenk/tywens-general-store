@@ -1,7 +1,7 @@
 ---
 name: api-surface-mapper
 description: Maps all public APIs (REST, GraphQL, RPC, exported functions) and their contracts in legacy codebases. Identifies undocumented, inconsistent, or redundant endpoints. Use when understanding a system's external interfaces.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: haiku
 ---
 

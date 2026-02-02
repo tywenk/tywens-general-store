@@ -1,7 +1,7 @@
 ---
 name: entry-point-tracer
 description: Maps all entry points (routes, CLI commands, event handlers, cron jobs) and traces execution flows in legacy codebases. Use when understanding how a system is invoked and how execution flows through it.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: haiku
 ---
 

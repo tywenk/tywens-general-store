@@ -1,7 +1,7 @@
 ---
 name: boundary-analyzer
 description: Identifies module boundaries, layer violations, and circular dependencies in legacy codebases. Use when analyzing architectural boundaries and separation of concerns.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: haiku
 ---
 

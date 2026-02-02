@@ -1,7 +1,7 @@
 ---
 name: state-side-effect-mapper
 description: Maps state topology (where state lives) and hidden side effects in legacy codebases. Identifies global state, unexpected mutations, and non-obvious coupling. Use when understanding hidden complexity in a system.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: haiku
 ---
 

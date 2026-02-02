@@ -1,7 +1,7 @@
 ---
 name: config-archaeologist
 description: Maps all configuration surfaces in a legacy codebase — env vars, config files, feature flags, hardcoded values. Finds dead, duplicated, or contradictory config. Use when understanding how a system is configured.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: haiku
 ---
 

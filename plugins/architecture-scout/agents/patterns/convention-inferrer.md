@@ -1,7 +1,7 @@
 ---
 name: convention-inferrer
 description: Reverse-engineers the intended conventions of a legacy codebase from its most consistent parts. Use when trying to understand what the original team was aiming for.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: sonnet
 ---
 

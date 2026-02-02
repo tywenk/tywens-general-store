@@ -1,7 +1,7 @@
 ---
 name: security-flagger
 description: Flags obvious security surface concerns in legacy codebases. Observe and report only — does not prescribe fixes. Use when identifying security surface area.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: sonnet
 ---
 

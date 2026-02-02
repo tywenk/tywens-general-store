@@ -1,7 +1,7 @@
 ---
 name: structural-perf-detector
 description: Identifies systemic performance anti-patterns in legacy codebases. Focuses on structural inefficiencies used throughout, not individual line-level optimizations. Use when assessing structural performance concerns.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: sonnet
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: testing-surveyor
 description: Surveys test coverage patterns and quality in legacy codebases. Identifies well-tested areas, untested areas, and test quality concerns. Use when assessing test coverage and quality.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: haiku
 ---
 

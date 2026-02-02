@@ -1,7 +1,7 @@
 ---
 name: quick-wins-identifier
 description: Reads all architecture scout findings and identifies low-effort high-impact improvements that can be done immediately. Use after all analysis phases are complete.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: inherit
 ---
 

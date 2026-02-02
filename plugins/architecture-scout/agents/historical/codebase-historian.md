@@ -1,7 +1,7 @@
 ---
 name: codebase-historian
 description: Maps the evolutionary eras of a legacy codebase — identifies technology layers, abandoned initiatives, and knowledge silos. Brief survey, not deep analysis. Use when understanding codebase history.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: haiku
 ---
 

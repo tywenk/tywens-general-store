@@ -1,7 +1,7 @@
 ---
 name: risk-assessor
 description: Cross-references all architecture scout findings to identify the highest-risk areas of a codebase. Use after all analysis and synthesis phases are complete.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: inherit
 ---
 

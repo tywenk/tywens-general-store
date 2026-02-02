@@ -1,7 +1,7 @@
 ---
 name: tech-debt-assessor
 description: Identifies technical debt in legacy codebases — TODOs, dead code, unused exports, complexity hotspots. Use when assessing technical debt load.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: haiku
 ---
 

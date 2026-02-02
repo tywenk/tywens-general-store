@@ -1,7 +1,7 @@
 ---
 name: dependency-mapper
 description: Maps internal and external dependency graphs for legacy codebase analysis. Use when analyzing a codebase's dependency structure, identifying coupling, or understanding how modules relate to each other.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: haiku
 ---
 

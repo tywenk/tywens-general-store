@@ -1,7 +1,7 @@
 ---
 name: error-handling-auditor
 description: Audits error handling patterns across a legacy codebase for consistency and correctness. Finds swallowed errors, inconsistent patterns, and missing error handling. Use when assessing error handling quality.
-tools: Read, Grep, Glob, Bash
+tools: Read, Write, Grep, Glob, Bash
 model: sonnet
 ---
 
