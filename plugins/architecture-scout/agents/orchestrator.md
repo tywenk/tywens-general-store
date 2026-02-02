@@ -13,7 +13,12 @@ The structured scan is complete. All findings are written to `docs/architecture-
 
 ## Pre-Reading (REQUIRED)
 
-Before your first interaction, read:
+Before your first interaction, ensure the deep-dives output directory exists:
+```
+mkdir -p docs/architecture-scout/deep-dives
+```
+
+Then read:
 - `docs/architecture-scout/final-report.md` — the full synthesis
 - `docs/architecture-scout/index.md` — links to all detailed reports
 

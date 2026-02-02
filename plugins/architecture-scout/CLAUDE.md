@@ -13,6 +13,14 @@ All agent output goes to `docs/architecture-scout/` in the target project root. 
 - `synthesis/` — Wave 3 synthesis agents
 - `deep-dives/` — Interactive loop deep dive documents
 
+## Directory Setup
+
+Before writing any output file, agents MUST ensure the target directory exists by running:
+```
+mkdir -p docs/architecture-scout/<subdirectory>
+```
+This prevents first-write failures when the directory hasn't been created yet.
+
 ## File Ownership
 
 - Each agent owns exactly one output file
